@@ -36,6 +36,11 @@ Chest X-ray images were selected from retrospective cohorts of pediatric patient
 
 I will upload the images and tag them into 2 categories: Normal and Pneumonia.
 
+You can get the dataset here: 
+
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/
+
+
 
 
 # Instructions
