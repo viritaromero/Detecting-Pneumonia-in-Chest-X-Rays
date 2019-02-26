@@ -8,7 +8,7 @@ AI in healthcare will always be the reason I started to dig in this field of Art
 
 It’s unbelievable how AI is improving the healthcare field, specifically in medical diagnosis. AI will improve the way Doctors diagnose and treat diseases. It’s not a competition but an opportunity to join forces!
 
-This time, detecting Pneumonia in Chest X-Ray images, is a great experience. I will show you two ways to detect Pneumonia in Chest X-Rays: Using Custom Vision Service From Microsoft Azure and a Convolutional Neural Network with PyTorch (It’s my favorite!).
+This time, detecting Pneumonia in Chest X-Ray images, is a great experience. I will show you two ways to detect Pneumonia in Chest X-Rays: Using a Convolutional Neural Network with PyTorch (It’s my favorite!).
 
 # What is Pneumonia?
 
