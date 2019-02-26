@@ -1,10 +1,8 @@
-# Detecting-Pneumonia-in-Chest-X-Rays
-A Computer Vision model made in PyTorch that detects Pneumonia in Chest X-Rays
-
 # Creating a model that detects Pneumonia in Chest X-Rays
+A Computer Vision model made in PyTorch that detects Pneumonia in Chest X-Rays
 ![alt text](https://cdn-images-1.medium.com/max/716/0*KCg1HEnTwnvSuVA9.jpg)
 
-#AI in Healthcare
+# AI in Healthcare
 
 AI in healthcare will always be the reason I started to dig in this field of Artificial Intelligence. The scope is huge and the impact you make in the world, too. Making a prototype to solve medical problems will always be a reason to be proud of.
 
@@ -12,22 +10,23 @@ It’s unbelievable how AI is improving the healthcare field, specifically in me
 
 This time, detecting Pneumonia in Chest X-Ray images, is a great experience. I will show you two ways to detect Pneumonia in Chest X-Rays: Using Custom Vision Service From Microsoft Azure and a Convolutional Neural Network with PyTorch (It’s my favorite!).
 
-#What is Pneumonia?
+# What is Pneumonia?
 
 According to the American Lung Association, Pneumonia is an infection that inflames your lungs’ air sacs (alveoli). The air sacs may fill up with fluid or pus, causing symptoms such as a cough, fever, chills and trouble breathing.
 
-#PNEUMONIA SYMPTOMS
+# Pneumonia Symptoms
 
 Most common Pneumonia symptoms are:
 
-    Cough, which may produce greenish, yellow or even bloody mucus
-    Fever, sweating and shaking chills
-    Shortness of breath
-    Rapid, shallow breathing
-    Sharp or stabbing chest pain that gets worse when you breathe deeply or cough
-    Loss of appetite, low energy, and fatigue
-    Nausea and vomiting, especially in small children
-    Confusion, especially in older people
+- Cough, which may produce greenish, yellow or even bloody mucus
+- Fever, sweating and shaking chills
+- Shortness of breath
+- Rapid, shallow breathing
+- Sharp or stabbing chest pain that gets worse when you breathe deeply or cough
+- Loss of appetite, low energy, and fatigue
+- Nausea and vomiting, especially in small children
+- Confusion, especially in older people
+
 
 # Chest X-Ray Images (Pneumonia)
 
